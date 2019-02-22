@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: basics.junit.junit4.CalculaterJUnit4Test
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s - in basics.junit.junit4.CalculaterJUnit4Test

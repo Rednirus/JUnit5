@@ -1,6 +1,0 @@
-# Created at 2019-02-21T16:42:20.806
-Feb 21, 2019 4:42:20 PM org.junit.jupiter.engine.discovery.JavaElementsResolver logMultipleTestDescriptorsForSingleElement
-
-# Created at 2019-02-21T16:42:20.812
-WARNING: Possible configuration error: method [void basics.junit.junit5.ParameterizedFibonacciTests.fibonacci(long,long)] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
-
