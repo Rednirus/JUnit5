@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: basics.junit.junit5.DynamicTests
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in basics.junit.junit5.DynamicTests
+testChars[4]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at basics.junit.junit5.DynamicTests.lambda$null$3(DynamicTests.java:27)
+

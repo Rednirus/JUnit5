@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: basics.junit.junit5.CalculatorTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.056 s <<< FAILURE! - in basics.junit.junit5.CalculatorTests
+divideByZero  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at basics.junit.junit5.CalculatorTests.divideByZero(CalculatorTests.java:49)
+
+fibonacci  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: execution exceeded timeout of 1 ms by 7 ms
+	at basics.junit.junit5.CalculatorTests.fibonacci(CalculatorTests.java:75)
+
