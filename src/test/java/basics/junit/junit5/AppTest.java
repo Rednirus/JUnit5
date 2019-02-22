@@ -1,6 +1,6 @@
 package basics.junit.junit5;
 
-import org.junit.Test;
+import org.junit.jupiter.api.*;
 
 import static org.junit.Assert.assertTrue;
 
